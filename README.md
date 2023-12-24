@@ -1,6 +1,6 @@
 # InnovateHub • Social Media App
 ## Screenshots
-| Home screen| Movie/Tv detail| Episode list|
+| Home screen| Comments | Notifications list|
 | ------------- | ------------- | ------------- |
 | <img src="https://raw.githubusercontent.com/jakcal/InnovateHub/main/1.png" width="270" height="480"> | <img src="https://raw.githubusercontent.com/jakcal/InnovateHub/main/2.png" width="270" height="480"> | <img src="https://raw.githubusercontent.com/jakcal/InnovateHub/main/3.png" width="270" height="480"> |
 
